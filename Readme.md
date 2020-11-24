@@ -17,7 +17,7 @@ or
 
 or
 
-`pip install promethor`
+`pip install faker-rainbow-collection`
 
 ## How to use
 
